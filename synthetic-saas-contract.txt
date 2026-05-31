@@ -1,0 +1,169 @@
+MASTER SUBSCRIPTION AND SERVICES AGREEMENT
+
+Agreement No.: MSA-2025-0047
+Effective Date: January 1, 2026
+Expiry Date: December 31, 2026
+
+PARTIES
+
+Vendor:   NovaCRM Inc., a Delaware corporation ("Company")
+Customer: Hartwell & Associates LLP, a professional services firm ("Customer")
+
+---
+
+RECITALS
+
+This Master Subscription and Services Agreement ("Agreement") sets out the terms under which
+NovaCRM Inc. will provide software subscription access, implementation services, and ongoing
+technical support to Hartwell & Associates LLP during the term set out above.
+
+---
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Subscription" means the right to access and use the NovaCRM cloud-based CRM platform
+    via the internet during the Subscription Term.
+
+1.2 "Implementation Services" means the configuration, data migration, workflow setup, and
+    go-live support activities described in Schedule A.
+
+1.3 "Support Services" means the post-go-live help desk, bug resolution, and account
+    management services described in Schedule B.
+
+1.4 "Go-Live Date" means the date on which the Customer's production environment is
+    activated, targeted for March 31, 2026.
+
+---
+
+ARTICLE 2 — PERFORMANCE OBLIGATIONS
+
+2.1  PLATFORM SUBSCRIPTION
+
+     The Company grants Customer a non-exclusive, non-transferable right to access the
+     NovaCRM platform for up to 50 named users during the Subscription Term.
+
+     Subscription Term: January 1, 2026 through December 31, 2026 (12 months)
+     Subscription Fee: USD 180,000 payable in equal monthly instalments of USD 15,000
+     on the first business day of each month.
+
+     The platform is made available on a continuous basis throughout the term. Customer
+     receives and consumes the benefit of platform access as it is provided each day.
+
+2.2  IMPLEMENTATION SERVICES
+
+     The Company will perform the implementation activities set out in Schedule A,
+     estimated at 400 hours of professional services effort.
+
+     Implementation Fee: USD 60,000 (fixed price)
+     Estimated Timeline: January 1, 2026 through March 31, 2026 (3 months)
+
+     Revenue recognition for implementation services shall track the ratio of costs
+     incurred to total estimated costs at completion. The Company's project management
+     office will update estimated costs to complete on a monthly basis.
+
+     Payment: 30% on signing (USD 18,000); 40% at mid-point review (USD 24,000);
+     30% on Go-Live Date (USD 18,000).
+
+2.3  PREMIUM SUPPORT AND ACCOUNT MANAGEMENT
+
+     Following the Go-Live Date, the Company will provide the support services described
+     in Schedule B for the remainder of the Subscription Term.
+
+     Support Fee: USD 24,000 for the support period April 1, 2026 through December 31, 2026
+     (9 months), payable in equal monthly instalments of USD 2,666.67.
+
+     Support services are delivered continuously and consumed by the Customer as provided.
+
+---
+
+ARTICLE 3 — TOTAL CONTRACT VALUE
+
+     Platform Subscription:       USD 180,000
+     Implementation Services:     USD  60,000
+     Premium Support:             USD  24,000
+                                  -----------
+     Total Contract Value:        USD 264,000
+
+---
+
+ARTICLE 4 — STANDALONE SELLING PRICES
+
+     The Company establishes standalone selling prices ("SSPs") annually based on
+     observable transactions with similar customers:
+
+     Platform Subscription (50 users, 12 months):  USD 180,000
+     Implementation Services (400 hours at $150):  USD  60,000
+     Premium Support (9 months):                   USD  24,000
+
+     No reallocation is required as the sum of SSPs equals the total contract price.
+
+---
+
+ARTICLE 5 — PAYMENT TERMS
+
+5.1  Subscription fees are invoiced monthly in advance.
+5.2  Implementation fees are invoiced per the milestone schedule in Article 2.2.
+5.3  Support fees are invoiced monthly in advance from April 1, 2026.
+5.4  Payment is due net 30 days from invoice date.
+5.5  Late payments accrue interest at 1.5% per month.
+
+---
+
+ARTICLE 6 — INTELLECTUAL PROPERTY
+
+6.1  The platform and all underlying software remain the exclusive property of NovaCRM Inc.
+6.2  Customer data remains the exclusive property of Hartwell & Associates LLP.
+6.3  Any custom configurations or workflows developed during Implementation Services
+     become the property of the Customer upon full payment.
+
+---
+
+ARTICLE 7 — TERMINATION
+
+7.1  Either party may terminate for material breach with 30 days written notice if
+     the breach is not cured within that period.
+7.2  The Customer may not terminate the Subscription for convenience during the term.
+7.3  Upon termination, any prepaid and unearned fees shall be refunded pro-rata.
+
+---
+
+ARTICLE 8 — GOVERNING LAW
+
+This Agreement is governed by the laws of the State of Delaware, United States.
+
+---
+
+SCHEDULE A — IMPLEMENTATION SCOPE
+
+Phase 1 — Discovery and Configuration (January 2026)
+  - Requirements workshop (2 days)
+  - System configuration: pipelines, fields, user roles
+  - Integration with Customer's existing billing system
+
+Phase 2 — Data Migration and Testing (February 2026)
+  - Historical CRM data migration (up to 50,000 records)
+  - User acceptance testing (UAT) — 2 rounds
+  - Performance and security testing
+
+Phase 3 — Training and Go-Live (March 2026)
+  - End-user training (4 sessions, up to 50 users)
+  - Go-live support (5 business days on-site)
+  - Handover documentation
+
+---
+
+SCHEDULE B — SUPPORT SERVICES (POST GO-LIVE)
+
+  - Help desk: business hours, response within 4 hours for P1 issues
+  - Monthly account review call
+  - Platform updates and patches (included, no additional charge)
+  - Named account manager assigned to the Customer
+
+---
+
+AGREED by the authorised representatives of the parties:
+
+NovaCRM Inc.                          Hartwell & Associates LLP
+_______________________               _______________________
+Chief Revenue Officer                 Managing Partner
+Date: December 15, 2025               Date: December 15, 2025

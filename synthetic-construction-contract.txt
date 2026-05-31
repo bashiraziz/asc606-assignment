@@ -1,0 +1,195 @@
+ENGINEERING, PROCUREMENT AND CONSTRUCTION CONTRACT
+
+Contract No.: EPC-2025-0112
+Effective Date: February 1, 2026
+Substantial Completion Date (Target): January 31, 2027
+
+PARTIES
+
+Contractor: Meridian Engineering Group Ltd., a UK registered company ("Contractor")
+Owner:      Gulf Ports Authority, a statutory body ("Owner")
+
+---
+
+RECITALS
+
+The Owner wishes to construct a bulk cargo handling facility at Port Rashid, including
+civil works, mechanical installation, and commissioning. The Contractor has been selected
+through competitive tender to deliver the works described in this Contract on a fixed-price,
+lump-sum basis.
+
+---
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Works" means all engineering, procurement, construction, installation, testing,
+    and commissioning activities necessary to deliver the facility as described in
+    the Technical Specification (Appendix 1).
+
+1.2 "Substantial Completion" means the point at which the facility passes the
+    Performance Tests set out in Appendix 2 and is certified as ready for commercial
+    operation by the Owner's Independent Engineer.
+
+1.3 "Defects Liability Period" means the 12-month period following the Substantial
+    Completion Date during which the Contractor is obligated to remedy defects
+    at no additional cost to the Owner.
+
+1.4 "Progress Certificate" means the monthly certificate issued by the Owner's
+    Independent Engineer confirming costs incurred and percentage completion.
+
+---
+
+ARTICLE 2 — PERFORMANCE OBLIGATIONS
+
+2.1  ENGINEERING, PROCUREMENT AND CONSTRUCTION (EPC WORKS)
+
+     The Contractor shall design, procure, and construct the bulk cargo handling
+     facility in full conformance with the Technical Specification.
+
+     Contract Price (EPC Works): USD 48,000,000 (fixed lump sum)
+     Contract Duration: February 1, 2026 through January 31, 2027 (12 months)
+
+     Revenue on the EPC Works shall be measured using the input method based on
+     costs incurred relative to total estimated costs at completion. The Contractor's
+     quantity surveying team shall certify actual costs monthly. The Owner's Independent
+     Engineer shall review and approve each Progress Certificate within 10 business days
+     of submission.
+
+     Estimated Cost at Completion: USD 38,400,000
+     Estimated Gross Margin: 20%
+
+     Monthly invoicing shall be based on approved Progress Certificates.
+     Payment is due within 28 days of Owner approval.
+
+2.2  COMMISSIONING AND PERFORMANCE TESTING MILESTONE
+
+     Upon completion of construction, the Contractor shall commission the facility
+     and conduct the Performance Tests described in Appendix 2.
+
+     Milestone: Issuance of the Substantial Completion Certificate by the Owner's
+     Independent Engineer, certifying that the facility has passed all Performance Tests
+     and is ready for commercial operation.
+
+     Milestone Fee: USD 4,000,000 (payable within 14 days of the Substantial
+     Completion Certificate being issued)
+
+     Revenue on this obligation shall be recognized at the point in time when the
+     Substantial Completion Certificate is issued, as this represents the moment
+     control of the commissioned and tested facility transfers to the Owner.
+
+     The Milestone Fee is not contingent on the facility achieving any specific
+     throughput rate during the Defects Liability Period.
+
+---
+
+ARTICLE 3 — TOTAL CONTRACT VALUE
+
+     EPC Works:                            USD 48,000,000
+     Commissioning Milestone:             USD  4,000,000
+                                          -------------
+     Total Contract Value:                USD 52,000,000
+
+---
+
+ARTICLE 4 — STANDALONE SELLING PRICES
+
+     EPC Works: USD 48,000,000 — consistent with the Contractor's observable
+     tender pricing for comparable port infrastructure projects of similar scope
+     and complexity in the Gulf region.
+
+     Commissioning Milestone: USD 4,000,000 — consistent with the Contractor's
+     standard commissioning fee schedule (approximately 8% of EPC contract value
+     for facilities of this type).
+
+     No reallocation is required as SSPs equal the contract price.
+
+---
+
+ARTICLE 5 — PAYMENT TERMS
+
+5.1  EPC Works: monthly invoicing based on approved Progress Certificates.
+     Payment due 28 days from Owner approval of each certificate.
+
+5.2  Mobilisation advance: USD 4,800,000 (10% of EPC Works price) payable
+     within 14 days of Contract execution, to be recovered ratably over the
+     first 6 months of the contract via deduction from Progress Certificates.
+
+5.3  Retention: 5% of each Progress Certificate payment shall be withheld by
+     the Owner and released 50% at Substantial Completion and 50% at expiry
+     of the Defects Liability Period.
+
+5.4  Commissioning Milestone Fee: payable within 14 days of issuance of the
+     Substantial Completion Certificate.
+
+---
+
+ARTICLE 6 — VARIATIONS
+
+6.1  The Owner may instruct variations to the Works in writing. The Contractor
+     shall price each variation within 10 business days of instruction.
+6.2  Agreed variations increase or decrease the Contract Price accordingly.
+6.3  Variations exceeding 15% of the original Contract Price require a formal
+     contract amendment signed by both parties.
+
+---
+
+ARTICLE 7 — DELAY AND LIQUIDATED DAMAGES
+
+7.1  If Substantial Completion is not achieved by January 31, 2027 (subject to
+     agreed extensions of time), the Contractor shall pay liquidated damages of
+     USD 50,000 per calendar day of delay, up to a cap of 10% of the Contract Price.
+
+7.2  Extensions of time shall be granted for Owner-caused delays, force majeure
+     events, or Owner-instructed variations that affect the critical path.
+
+---
+
+ARTICLE 8 — DEFECTS LIABILITY
+
+8.1  The Defects Liability Period runs for 12 months from the Substantial
+     Completion Date.
+8.2  The Contractor shall remedy any defect notified by the Owner during this
+     period within 30 days, at the Contractor's cost.
+8.3  The remaining 50% of retention is released at expiry of the Defects
+     Liability Period provided no outstanding defects remain.
+
+---
+
+ARTICLE 9 — GOVERNING LAW
+
+This Contract is governed by the laws of England and Wales. Disputes shall
+be referred to arbitration under ICC Rules, seat London.
+
+---
+
+APPENDIX 1 — SCOPE SUMMARY (Technical Specification Reference)
+
+Bulk Cargo Handling Facility — Port Rashid
+  - Quay length: 350 metres (2 berths)
+  - Ship unloader: 2 × 1,500 t/hr continuous ship unloaders
+  - Conveyor system: 4.2 km enclosed conveyor network
+  - Storage: 2 × covered storage domes, capacity 80,000 MT each
+  - Reclaim and loadout system to landside transport
+  - Control room, utilities, and site infrastructure
+
+---
+
+APPENDIX 2 — PERFORMANCE TESTS (Summary)
+
+The facility must demonstrate, over a continuous 72-hour test run:
+  - Ship unloading rate: minimum 1,200 t/hr per unloader
+  - Conveyor availability: minimum 95%
+  - Storage integrity: no material ingress or moisture variance outside specification
+  - Control system: all interlocks and alarms functional per design
+
+Failure to meet any criterion requires remediation and retest before the
+Substantial Completion Certificate can be issued.
+
+---
+
+AGREED by the authorised representatives of the parties:
+
+Meridian Engineering Group Ltd.          Gulf Ports Authority
+_______________________                  _______________________
+Chief Executive Officer                  Director General
+Date: January 20, 2026                   Date: January 20, 2026
